@@ -1,0 +1,5 @@
+Anger
+Fear
+Joy
+None
+Sad
